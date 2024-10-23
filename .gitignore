@@ -1,0 +1,11 @@
+# Project place file
+/sparkly.rbxlx
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+
+/Packages
+/robloxv2.yml
+/test.project.json
+/test
