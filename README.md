@@ -20,3 +20,10 @@ local sparkData: Sparkly.SparkData = {
 
 Sparkly.createSpark(sparkData)
 ```
+
+## Installation
+
+```toml title="wally.toml"
+[dependencies]
+Sparkly = "iminversed/sparkly@0.1.0"
+```
